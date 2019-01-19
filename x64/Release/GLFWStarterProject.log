@@ -1,0 +1,11 @@
+﻿  Window.cpp
+..\Window.cpp(392): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\Window.cpp(393): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\Window.cpp(396): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\Window.cpp(397): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  42 of 1597 functions ( 2.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GLFWStarterProject.vcxproj -> F:\Study\CSE 167\Final Project\x64\Release\GLFWStarterProject.exe
